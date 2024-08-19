@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bishwayan Deb Roy</h1>
-<h3 align="center">I'm an undergraduate student at SRMIST, Ramapuram, and a passionate developer from India. I'm always striving to grow and improve, with the goal of becoming a better version of myself each day.</h3>
+<h1 align="center">Hi <a href="https://github.com/SiddharthaBhattacharjee"><img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Hi.gif" width="29px" height="29px"></a>, I'm Bishwayan Deb Roy</h1>
+<h3 align="center">I'm an undergraduate student at SRMIST, Ramapuram, and a passionate developer from India. I'm always striving to grow and improve, with the goal of becoming a better version of myself each day<img src="https://github.com/iamimmanuelraj/iamimmanuelraj/blob/master/Assets/Rocket.gif" width="18px" height="18px">.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
 
